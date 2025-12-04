@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "PBFT Consensus Simulator",
-  description: "Interactive visualization of Byzantine Fault Tolerant consensus algorithm",,
+  description: "Interactive visualization of Byzantine Fault Tolerant consensus algorithm",
   // ... existing metadata ...
     generator: 'v0.app'
 }
